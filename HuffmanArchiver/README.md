@@ -20,7 +20,7 @@
 ```
 - Size of extracted file (received data): 15,678 bytes, size of compressed data: 6,172 bytes, size of additional data: 482 bytes. Size of all original compressed file: 6172 + 482 = 6654 bytes.
 ```
-./hw_03 -u -f result.bin -o myfile_new.txt
+./HuffmanArchiver -u -f result.bin -o myfile_new.txt
 6172
 15678
 482
